@@ -29,3 +29,4 @@ dropzone = Dropzone(app)
 
 
 from application import routes
+/
