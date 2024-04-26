@@ -20,3 +20,4 @@ class QRCodeData(FlaskForm):
     )
     language = SelectField("Language to translate to", choices=languages_choice)
     submit = SubmitField('Translate') 
+//
